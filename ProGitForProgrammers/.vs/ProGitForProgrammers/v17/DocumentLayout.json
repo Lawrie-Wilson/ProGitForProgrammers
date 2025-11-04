@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\github\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5D346C7-5D3C-4B25-BC59-23D4B96572B4}|ProGitForProgrammers\\ProGitForProgrammers.csproj|d:\\github\\commandline\\progitforprogrammers\\progitforprogrammers\\progitforprogrammers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5D346C7-5D3C-4B25-BC59-23D4B96572B4}|ProGitForProgrammers\\ProGitForProgrammers.csproj|solutionrelative:progitforprogrammers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4140424-FC00-42FC-BA9E-88095678311B}|ProGitForProgrammers\\ProGitForProgrammers.csproj|d:\\github\\commandline\\progitforprogrammers\\progitforprogrammers\\progitforprogrammers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4140424-FC00-42FC-BA9E-88095678311B}|ProGitForProgrammers\\ProGitForProgrammers.csproj|solutionrelative:progitforprogrammers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "ProGitForProgrammers\\Program.cs",
               "ToolTip": "D:\\github\\CommandLine\\ProGitForProgrammers\\ProGitForProgrammers\\ProGitForProgrammers\\Program.cs",
               "RelativeToolTip": "ProGitForProgrammers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T15:10:05.061Z",
+              "WhenOpened": "2025-11-04T16:21:32.431Z",
               "EditorCaption": ""
             }
           ]

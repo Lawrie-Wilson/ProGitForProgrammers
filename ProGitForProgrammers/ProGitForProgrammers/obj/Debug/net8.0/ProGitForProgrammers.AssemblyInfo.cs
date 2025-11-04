@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProGitForProgrammers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64417817cbe0ee856601f17e1ae009708a2722c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ed2684758540bbb2952aa3201616e57f0a003c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProGitForProgrammers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProGitForProgrammers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
